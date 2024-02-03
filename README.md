@@ -5,5 +5,4 @@
 ## 文件说明：
 `main.py` 是计算文件，采用一种计算方法计算概率，同时用模拟的办法验证计算准确性。
 运行成功后，生成`result.html`和`error.html`  
-
-`result.html`中的为生存概率的百分数
+`result.html`中的y轴为生存概率的百分数
